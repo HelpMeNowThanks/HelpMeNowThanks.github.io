@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	background: darkred;
+	
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.commie {
+	width: 800px;
+}
